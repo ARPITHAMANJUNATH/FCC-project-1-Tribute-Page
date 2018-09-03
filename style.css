@@ -1,0 +1,42 @@
+#main{
+  background-color:black;
+  filter:grayscale(100%);
+     
+opacity: 0.9;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
+}
+#img-caption{
+  color:orange;
+  width: 800px;
+  text-align:center;
+  margin-left: 220px;
+  
+  
+}
+#tribute-info{
+  color:white;
+  text-align: auto;
+  margin: 25px;
+}
+#image {
+  max-width: 100%; 
+  display: block; 
+  height: auto;
+  margin: auto;
+  
+}
+header, footer {
+    padding: 1em;
+    color: black;
+    background-color: #aaa;
+    clear: left;
+    text-align: center;
+  font-size: 20px;
+  
+  position: auto;
+}
